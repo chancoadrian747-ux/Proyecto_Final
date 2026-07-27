@@ -1,4 +1,4 @@
-# Proyecto_Final
+# ¿Cómo se relaciona la Tasa de Referencia del BCRP con la Inflación en Perú?
 ## 1. Contexto del conjunto de datos
 
 ### Institución que proporciona los datos
