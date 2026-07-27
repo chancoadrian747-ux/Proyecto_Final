@@ -33,7 +33,7 @@ Adicionalmente, se incorpora el **Índice de Precios al Consumidor (IPC) Subyace
   - `PD04722MM`: Tasa de Referencia de la Política Monetaria
   - `PN38708PM`: IPC Subyacente - Lima Metropolitana
  
-  - ## 📝 Conclusiones Finales
+  - ## Conclusiones Finales
 
 ### Pregunta de investigación
 *"¿Cómo se relaciona la Tasa de Referencia del BCRP con la inflación subyacente en el Perú durante el periodo 2004-2025?"*
